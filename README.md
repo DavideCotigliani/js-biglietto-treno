@@ -8,3 +8,9 @@ Il programma dovrà chiedere all'utente il numero di chilometri che vuole percor
 <!-- Un prompt per inserire il numero di chilometri che si desidera percorrere -->
 <!-- Un prompt per inserire l'età del passeggero. -->
 <!-- Definisco il prezzo del biglietto con una formula -->
+<!-- Definisco la variabile del prezzo finale -->
+<!-- Inizio con le operazioni di if ed else if -->
+<!-- Nel primo caso di if la scontistica per gli under 18 -->
+<!-- Nel secondo caso di else if la scontistica per gli over 65 -->
+<!-- Un altro else per il prezzo finale in caso non ci siano sconti -->
+<!-- Infine il console log per visualizzare il prezzo finale con i decimali -->
