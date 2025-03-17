@@ -1,23 +1,4 @@
 //Definisco le variabili
-let prezzoBiglietto = 0.21 * 100;
-let primoSconto = prezzoBiglietto - prezzoBiglietto * 20 / 100;
-let secondoSconto = prezzoBiglietto - prezzoBiglietto * 40 / 100; 
-let prezzofinale
-let distanceUser = prompt ("Inserisci i chilometri da percorrere")
-let ageUser = prompt (`Inserisci la tua età`)
-
-// inserisco i valori inseriti e calcolo le scontistiche
-
-if (distanceUser && ageUser === primoSconto){
-prezzofinale = prezzoBiglietto - primoSconto;
-}
-
-else if (distanceUser && ageUser === secondoSconto){
-    prezzofinale = prezzoBiglietto
-}
-
-else {
-    prezzofinale = prezzoBiglietto;
-}
-
-console.log(`Il prezzo del biglietto è di ${prezzofinale}`);
+const prezzoKm = 0.21;
+let chilometri = prompt("Inserisci il numero di chilometri che vuoi percorrere")
+let age = prompt ("Inserisci l'età del passeggero")
