@@ -19,4 +19,4 @@ else{
     finalPrice = price;
 }
 // Il console log per visualizzare il prezzo finale con i decimali
-console.log(`Il prezzo è di ${finalPrice.toFixed(2)}`)
+console.log(`Il prezzo è di ${finalPrice.toFixed(2)} \u20AC10`)
