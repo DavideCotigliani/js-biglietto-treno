@@ -7,3 +7,4 @@ Il programma dovrà chiedere all'utente il numero di chilometri che vuole percor
 <!-- Definisco le variabili -->
 <!-- Un prompt per inserire il numero di chilometri che si desidera percorrere -->
 <!-- Un prompt per inserire l'età del passeggero. -->
+<!-- Definisco il prezzo del biglietto con una formula -->
