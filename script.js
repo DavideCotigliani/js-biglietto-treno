@@ -15,3 +15,7 @@ prezzofinale = prezzoBiglietto - primoSconto;
 else if (distanceUser && ageUser === secondoSconto){
     prezzofinale = prezzoBiglietto
 }
+
+else {
+    prezzofinale = prezzoBiglietto;
+}
