@@ -19,3 +19,5 @@ else if (distanceUser && ageUser === secondoSconto){
 else {
     prezzofinale = prezzoBiglietto;
 }
+
+console.log(`Il prezzo del biglietto è di ${prezzofinale}`);
